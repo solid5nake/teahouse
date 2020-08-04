@@ -1,0 +1,51 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+nav {
+  background-color: black;
+  border-bottom: 2px white solid ;
+}
+
+nav a {
+  display: block;
+}
+
+.mission {
+  padding: 150px 0 ;
+  background: url(images/thee_bg.jpg) no-repeat center;
+  background-size: contain;
+}
+
+.opac {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.tea-flex {
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: stretch;
+  max-width: 700px;
+  margin: auto;
+  display: flex;
+}
+
+.tea-flex .tea {
+  margin: 5px;
+  flex-basis: 30%;
+  
+}
+
+.tea-flex .tea img {
+  width: 100%;
+}
+
+.locations-flex {
+  padding: 50px;
+}
+
+
+
