@@ -15,7 +15,7 @@ nav a {
 }
 
 .mission {
-  padding: 150px 0 ;
+  padding: 300px 0 ;
   background: url(images/thee_bg.jpg) no-repeat center;
   background-size: contain;
 }
@@ -43,9 +43,27 @@ nav a {
   width: 100%;
 }
 
-.locations-flex {
-  padding: 50px;
+.locations {
+  padding: 100px 0;
+  background: url(images/locaties_bg.jpg) no-repeat center;
+  background-size: contain;
 }
 
+.locations-flex {
+  padding: 10px;
+  justify-content: center;
+  display: flex;
+}
+
+ul {
+  margin: 15px;
+  padding: 5px;
+  background: rgba(0, 0, 0, 0.6);
+  list-style: none;
+}
+
+li {
+  margin: 20px;
+}
 
 
