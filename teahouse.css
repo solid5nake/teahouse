@@ -33,6 +33,7 @@ nav a {
 }
 
 .opac {
+  padding: 15px;
   background-color: rgba(0, 0, 0, 0.6);
 }
 
@@ -65,6 +66,10 @@ nav a {
   padding: 10px;
   justify-content: center;
   display: flex;
+}
+
+p {
+  margin: 10px;
 }
 
 ul {
