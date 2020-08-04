@@ -81,6 +81,7 @@ ul {
 
 li {
   margin: 20px;
+  font-size: small;
 }
 
 footer {
@@ -91,5 +92,6 @@ footer {
 
 footer span {
   padding: 20px 0;
+  font-size: small;
   flex-grow: 1;
 }
