@@ -44,11 +44,11 @@ nav a {
 }
 
 .tea-flex {
-  flex-wrap: wrap;
   justify-content: center;
   align-items: stretch;
   max-width: 700px;
   margin: auto;
+  flex-wrap: wrap;
   display: flex;
 }
 
@@ -80,7 +80,7 @@ p {
 }
 
 ul {
-  margin: 15px;
+  margin: 5px;
   padding: 5px;
   background: rgba(0, 0, 0, 0.6);
   list-style: none;
@@ -100,12 +100,10 @@ footer {
   background: black;
   border-top: 2px solid white;
   display: flex;
-  justify-content: center;
 }
 
 footer span {
   padding: 20px 0;
   font-size: smaller;
   flex-grow: 1;
-  flex-shrink: 1;
 }
