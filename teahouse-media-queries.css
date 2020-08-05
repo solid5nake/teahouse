@@ -1,7 +1,22 @@
 /* iphone 5SE screenwidth 320 */
 @media screen and (max-width: 320px) {
+  nav img {
+    width: 40%;
+    height: auto;
+    float: left;
+  }
+
+  .nav-links {
+    padding: 1em;
+  }
+
+  nav a {
+    margin: 0;
+    font-size: 8px;
+  }
+
   .mission {
-    padding: 125px 0;
+    padding: 100px 0 75px 0;
     background-size: cover;
   }
 
@@ -13,13 +28,17 @@
     font-size: 7px;
   }
 
+  .tea-of-the-month {
+    margin-bottom: 7rem;
+  }
+
   .tea p {
     margin: 5px;
   }
 
   .locations {
     padding: 0;
-    background-size: 100%;
+    background-size: 139%;
   }
   
   .location ul {
