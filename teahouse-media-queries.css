@@ -1,20 +1,30 @@
 /* iphone 5SE screenwidth 320 */
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 320px) {
+
+  .tea p {
+    margin: 5px;
+  }
+
   .locations {
     padding: 0;
     background-size: 100%;
   }
   
-  .locations h2 {
-    font-size: 0.8em;
-  }
-
   .location ul {
     margin: 5px;
   }
-
+  
   li h3 {
     font-size: 1.3em;
+  }
+  
+  p {
+    margin: 6px;
+    font-size: 0.5em;
+  }
+
+  h2 {
+    font-size: 0.8em;
   }
 
   li {
