@@ -1,5 +1,17 @@
 /* iphone 5SE screenwidth 320 */
 @media screen and (max-width: 320px) {
+  .mission {
+    padding: 125px 0;
+    background-size: cover;
+  }
+
+  .mission .opac {
+    padding: 7px;
+  }
+
+  .mission .opac p {
+    font-size: 7px;
+  }
 
   .tea p {
     margin: 5px;
