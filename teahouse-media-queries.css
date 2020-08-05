@@ -29,16 +29,17 @@
   }
 
   .tea-of-the-month {
-    margin-bottom: 7rem;
+    margin-bottom: 3rem;
   }
-
+  
   .tea p {
     margin: 5px;
   }
-
+  
   .locations {
     padding: 0;
     background-size: 139%;
+    margin-bottom: 3rem;
   }
   
   .location ul {

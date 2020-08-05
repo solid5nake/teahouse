@@ -8,7 +8,7 @@ body {
 nav {
   width: 100%;
   background-color: black;
-  border-bottom: 2px white solid;
+  border-bottom: 1px white solid;
   position: sticky;
   display: flex;
   align-items: center;
@@ -98,7 +98,7 @@ h2 {
 
 footer {
   background: black;
-  border-top: 2px solid white;
+  border-top: 1px solid white;
   display: flex;
 }
 
